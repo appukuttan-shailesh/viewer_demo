@@ -1,0 +1,27 @@
+{
+  "name": "neural-activity-visualizer",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.6.7",
+    "angular-resource": "^1.4.12",
+    "d3": "^3.5.17",
+    "plotly.js": "^1.52.2"
+  },
+  "main": "visualizer.js",
+  "directories": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aopy/neural-activity-visualizer.git"
+  },
+  "author": "Onur Ates, Hélissande Fragnaud and Andrew Davison, CNRS",
+  "bugs": {
+    "url": "https://github.com/aopy/neural-activity-visualizer/issues"
+  },
+  "homepage": "https://github.com/aopy/neural-activity-visualizer#readme",
+  "description": "An angularjs component for visualizing neural activity data"
+}
